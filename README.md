@@ -1,2 +1,1 @@
-# SBW_recruitment
-Spruce budworm recruitment module
+SBW_recruitment.md
